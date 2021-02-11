@@ -1,2 +1,3 @@
 # primeira-lista-react
-Created with CodeSandbox
+
+link para o projeto [aqui](https://n5bry.csb.app/)
